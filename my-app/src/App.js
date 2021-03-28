@@ -18,10 +18,7 @@ import { FormControl, Paper, Typography, Divider, Link, Radio, FormControlLabel,
 // import img4 from '../src/k23.jpg';
 import img5 from '../src/asset/image.jpg';
 import 'fontsource-roboto';
-// import Style from 'style-it';
-// import Box from '@material-ui/core/Box';
-// import Hook from './Button Huyen` Ao~';
-// import Abc from './component/Abc';
+
 import React from 'react';
 
 const useStyles = makeStyles((theme) => ({
@@ -425,7 +422,7 @@ console.log(value)
                         <PersonIcon style={{fontSize: 20, color:'#504e4e',paddingTop:'2px', paddingRight:'10px'}}/>
                       </Grid>
                       <Grid item style={{color:'#494949'}}>
-                        Nam
+                        Male
                       </Grid>
                     </Grid>
                   </Grid>
